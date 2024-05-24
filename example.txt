@@ -1,0 +1,8 @@
+<Choice 1: *path to file>
+<Choice 2: *path to file>
+
+this is an example text file. All the text on this line will be be displayed on one ascii screen.
+Each new line is another screen.
+choices are added as such
+    [Choice 1] = exit the file
+    [Choice 2] = go to next file
