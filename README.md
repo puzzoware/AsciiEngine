@@ -3,12 +3,13 @@ This project is a "for fun" project to create code that can generate ascii
 games from text files and directories. I got inspired to try it from a friend
 without coding experience asking how to make an ASCII based text game. 
 
+```
     _            _  _    ___                     ___              _            
    /_\   ___ __ (_)(_)  / __| __ _  _ __   ___  | __| _ _   __ _ (_) _ _   ___ 
   / _ \ (_-</ _|| || | | (_ |/ _` || '  \ / -_) | _| | ' \ / _` || || ' \ / -_)
  /_/ \_\/__/\__||_||_|  \___|\__,_||_|_|_|\___| |___||_||_|\__, ||_||_||_|\___|
                                                            |___/               
-
+```
 ## Usage
 The goal is to create an EXE file that creates the framework for a text based
 game. That way a developer can focus on working out a decent story rather than
