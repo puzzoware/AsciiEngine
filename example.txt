@@ -1,3 +1,4 @@
+<total choice: 2 (number of choices)>
 <Choice 1: *path to file>
 <Choice 2: *path to file>
 
